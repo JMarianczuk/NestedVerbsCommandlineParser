@@ -1,8 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/p61dj8udxs2aocmo/branch/master?svg=true)](https://ci.appveyor.com/project/commandlineparser/commandline/branch/master)
-[![NuGet](https://img.shields.io/nuget/dt/commandlineparser.svg)](http://nuget.org/packages/commandlineparser)
-[![NuGet](https://img.shields.io/nuget/v/commandlineparser.svg)](https://www.nuget.org/packages/CommandLineParser/)
-[![NuGet](https://img.shields.io/nuget/vpre/commandlineparser.svg)](https://www.nuget.org/packages/CommandLineParser/)
-[![Join the Gitter chat!](https://badges.gitter.im/gsscoder/commandline.svg)](https://gitter.im/gsscoder/commandline?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Fork: So far only in planning: Nested verbs to structurize command line better and make for a nicer user experience
 
 # Command Line Parser Library for CLR and NetStandard
 
